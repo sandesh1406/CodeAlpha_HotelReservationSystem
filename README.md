@@ -2,8 +2,6 @@
 
 A professional **Java Swing desktop application** for managing hotel rooms, guests, reservations, payments, availability, and administrative operations.
 
-Developed as part of the **CodeAlpha Java Programming Internship – Task 4**.
-
 ---
 
 ## 📸 Application Screenshots
@@ -44,22 +42,6 @@ The system is designed as a **local Hotel Property Management System (PMS)** wit
 
 ---
 
-## 🎯 CodeAlpha Task 4
-
-This project is implemented to satisfy the major requirements of **CodeAlpha Java Programming Internship – Task 4**, including:
-
-- Hotel room search and booking
-- Reservation management
-- Reservation cancellation
-- Room categorization
-- Payment simulation
-- Booking details
-- Guest management
-- OOP principles
-- File I/O / Java Serialization
-- Administrative room and reservation management
-
----
 
 # ✨ Key Features
 
@@ -136,3 +118,9 @@ PAID      PENDING
    └────┬────┘
         ↓
 Booking Details
+```
+
+### Author
+
+Sandesh
+Developed as part of the CodeAlpha Java Programming Internship .
