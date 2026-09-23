@@ -119,8 +119,19 @@ PAID      PENDING
         ↓
 Booking Details
 ```
+## 🔐 Login Credentials
 
-### Author
+The application includes role-based login for different hotel staff:
+
+| Role | Username | Password |
+|---|---|---|
+| **Administrator** | `admin` | `admin123` |
+| **Hotel Manager** | `manager` | `manager123` |
+| **Front Desk Staff** | `receptionist` | `reception123` |
+
+> **Note:** These are the default demo credentials for the local application.
+
+### 👨‍💻Author
 
 Sandesh
 Developed as part of the CodeAlpha Java Programming Internship .
